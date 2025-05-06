@@ -69,7 +69,7 @@ This project can run in two modes:
 
 ---
 
-### 🗂️ Running in Local JSON Mode (default)
+### 🗂️ Running in Local JSON Mode
 
 1. **Clone the repository**:
 
